@@ -1,0 +1,1 @@
+C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\HamburgerMenu.UWP.csproj;x64
