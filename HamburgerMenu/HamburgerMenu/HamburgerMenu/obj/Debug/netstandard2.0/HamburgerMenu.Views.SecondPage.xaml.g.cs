@@ -8,16 +8,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HamburgerMenu {
+namespace HamburgerMenu.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\sande_gblcen6\\Documents\\Xamarin.Forms_Examples\\HamburgerMenu\\HamburgerMe" +
-        "nu\\HamburgerMenu\\MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+        "nu\\HamburgerMenu\\Views\\SecondPage.xaml")]
+    public partial class SecondPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SecondPage));
         }
     }
 }

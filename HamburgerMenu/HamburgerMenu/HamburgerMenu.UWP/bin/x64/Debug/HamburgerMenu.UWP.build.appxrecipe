@@ -535,8 +535,11 @@
     <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu\bin\Debug\netstandard2.0\HamburgerMenu.dll">
       <PackagePath>HamburgerMenu.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\home.png">
+      <PackagePath>home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\one.png">
+      <PackagePath>one.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
@@ -656,6 +659,12 @@
     <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\two.png">
+      <PackagePath>two.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sande_gblcen6\Documents\Xamarin.Forms_Examples\HamburgerMenu\HamburgerMenu\HamburgerMenu.UWP\bin\x64\Debug\HamburgerMenu.UWP.xr.xml">
       <PackagePath>HamburgerMenu.UWP.xr.xml</PackagePath>
